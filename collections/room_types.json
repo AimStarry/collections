@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "rt1",
+        "type_name": "Standard",
+        "description": "Basic room with essential amenities",
+        "base_price": 1500,
+        "features": ["wifi", "tv"]
+    },
+    {
+        "_id": "rt2",
+        "type_name": "Deluxe",
+        "description": "Spacious room with modern design",
+        "base_price": 2500,
+        "features": ["wifi", "pool", "mini-bar"]
+    },
+    {
+        "_id": "rt3",
+        "type_name": "Suite",
+        "description": "Luxury suite with living area",
+        "base_price": 5000,
+        "features": ["wifi", "jacuzzi", "balcony"]
+    }
+]

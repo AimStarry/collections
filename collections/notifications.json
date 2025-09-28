@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "n1",
+        "user_id": "u1",
+        "message": "Your reservation has been confirmed.",
+        "type": "reservation",
+        "status": "sent",
+        "sent_at": "2025-08-01"
+    },
+    {
+        "_id": "n2",
+        "user_id": "u2",
+        "message": "Payment is pending for your reservation.",
+        "type": "payment",
+        "status": "unread",
+        "sent_at": "2025-08-11"
+    },
+    {
+        "_id": "n3",
+        "user_id": "u3",
+        "message": "Your reservation was cancelled.",
+        "type": "reservation",
+        "status": "sent",
+        "sent_at": "2025-08-05"
+    },
+    {
+        "_id": "n4",
+        "user_id": "u4",
+        "message": "Check-in reminder: 2025-09-10",
+        "type": "reminder",
+        "status": "read",
+        "sent_at": "2025-09-09"
+    },
+    {
+        "_id": "n5",
+        "user_id": "u5",
+        "message": "Thank you for your stay! Please leave a review.",
+        "type": "review",
+        "status": "sent",
+        "sent_at": "2025-09-26"
+    }
+]

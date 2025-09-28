@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "rev1",
+        "user_id": "u1",
+        "hotel_id": "h1",
+        "room_id": "r1",
+        "rating": 5,
+        "comment": "Amazing stay with beautiful beach view!",
+        "created_at": "2025-09-12"
+    },
+    {
+        "_id": "rev2",
+        "user_id": "u2",
+        "hotel_id": "h3",
+        "room_id": "r3",
+        "rating": 4,
+        "comment": "Spacious room and nice jacuzzi.",
+        "created_at": "2025-09-22"
+    },
+    {
+        "_id": "rev3",
+        "user_id": "u3",
+        "hotel_id": "h2",
+        "room_id": "r2",
+        "rating": 3,
+        "comment": "Cozy place but service was slow.",
+        "created_at": "2025-08-31"
+    },
+    {
+        "_id": "rev4",
+        "user_id": "u4",
+        "hotel_id": "h4",
+        "room_id": "r4",
+        "rating": 5,
+        "comment": "Loved the beachfront location!",
+        "created_at": "2025-09-14"
+    },
+    {
+        "_id": "rev5",
+        "user_id": "u5",
+        "hotel_id": "h5",
+        "room_id": "r5",
+        "rating": 4,
+        "comment": "Beautiful vibe, great food.",
+        "created_at": "2025-09-26"
+    }
+]

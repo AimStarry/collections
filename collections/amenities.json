@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "a1",
+        "name": "wifi",
+        "description": "High-speed wireless internet access",
+        "icon_url": "wifi.png"
+    },
+    {
+        "_id": "a2",
+        "name": "pool",
+        "description": "Outdoor swimming pool",
+        "icon_url": "pool.png"
+    },
+    {
+        "_id": "a3",
+        "name": "jacuzzi",
+        "description": "Private jacuzzi tub",
+        "icon_url": "jacuzzi.png"
+    },
+    {
+        "_id": "a4",
+        "name": "spa",
+        "description": "Relaxing spa services",
+        "icon_url": "spa.png"
+    },
+    {
+        "_id": "a5",
+        "name": "restaurant",
+        "description": "In-house restaurant with local cuisine",
+        "icon_url": "restaurant.png"
+    }
+]

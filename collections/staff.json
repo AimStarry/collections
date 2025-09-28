@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "s1",
+        "hotel_id": "h1",
+        "name": "Maria Lopez",
+        "role": "Manager",
+        "contact_info": {
+            "phone": "09991234567",
+            "email": "maria@sunsetparadise.com"
+        },
+        "shift_schedule": "Morning"
+    },
+    {
+        "_id": "s2",
+        "hotel_id": "h2",
+        "name": "Jose Cruz",
+        "role": "Receptionist",
+        "contact_info": {
+            "phone": "09992223333",
+            "email": "jose@mountainview.com"
+        },
+        "shift_schedule": "Evening"
+    },
+    {
+        "_id": "s3",
+        "hotel_id": "h3",
+        "name": "Anna Dela Cruz",
+        "role": "Housekeeping",
+        "contact_info": {
+            "phone": "09998887777",
+            "email": "anna@citylights.com"
+        },
+        "shift_schedule": "Morning"
+    }
+]
