@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "u1",
+        "name": "Alice Reyes",
+        "email": "alice@example.com",
+        "phone": "09171234567",
+        "password_hash": "hash1",
+        "address": "Quezon City",
+        "preferences": [
+            "wifi",
+            "pool"
+        ],
+        "role": "guest"
+    },
+    {
+        "_id": "u2",
+        "name": "Bob Santos",
+        "email": "bob@example.com",
+        "phone": "09181234567",
+        "password_hash": "hash2",
+        "address": "Angeles City",
+        "preferences": [
+            "jacuzzi"
+        ],
+        "role": "guest"
+    },
+    {
+        "_id": "u3",
+        "name": "Cathy Lim",
+        "email": "cathy@example.com",
+        "phone": "09191234567",
+        "password_hash": "hash3",
+        "address": "Cebu City",
+        "preferences": [
+            "wifi"
+        ],
+        "role": "admin"
+    },
+    {
+        "_id": "u4",
+        "name": "David Tan",
+        "email": "david@example.com",
+        "phone": "09201234567",
+        "password_hash": "hash4",
+        "address": "Manila",
+        "preferences": [
+            "pool"
+        ],
+        "role": "guest"
+    },
+    {
+        "_id": "u5",
+        "name": "Ella Cruz",
+        "email": "ella@example.com",
+        "phone": "09211234567",
+        "password_hash": "hash5",
+        "address": "Angeles City",
+        "preferences": [
+            "wifi",
+            "spa"
+        ],
+        "role": "guest"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "r1",
+        "hotel_id": "h1",
+        "room_number": "101",
+        "room_type": "Deluxe",
+        "price": 2800,
+        "capacity": 2,
+        "amenities": [
+            "wifi",
+            "pool"
+        ],
+        "availability_status": "available"
+    },
+    {
+        "_id": "r2",
+        "hotel_id": "h2",
+        "room_number": "202",
+        "room_type": "Standard",
+        "price": 1800,
+        "capacity": 2,
+        "amenities": [
+            "wifi"
+        ],
+        "availability_status": "booked"
+    },
+    {
+        "_id": "r3",
+        "hotel_id": "h3",
+        "room_number": "303",
+        "room_type": "Suite",
+        "price": 5200,
+        "capacity": 4,
+        "amenities": [
+            "wifi",
+            "jacuzzi"
+        ],
+        "availability_status": "available"
+    },
+    {
+        "_id": "r4",
+        "hotel_id": "h4",
+        "room_number": "404",
+        "room_type": "Deluxe",
+        "price": 2500,
+        "capacity": 3,
+        "amenities": [
+            "wifi",
+            "pool"
+        ],
+        "availability_status": "available"
+    },
+    {
+        "_id": "r5",
+        "hotel_id": "h5",
+        "room_number": "505",
+        "room_type": "Standard",
+        "price": 1500,
+        "capacity": 2,
+        "amenities": [
+            "wifi"
+        ],
+        "availability_status": "available"
+    }
+]

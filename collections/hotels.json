@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "h1",
+        "name": "Sunset Paradise Hotel",
+        "location": "Manila",
+        "description": "Luxury hotel with beach view",
+        "amenities": [
+            "wifi",
+            "pool",
+            "spa"
+        ],
+        "rating": 4.7,
+        "contact_info": {
+            "phone": "1234567890",
+            "email": "info@sunsetparadise.com"
+        },
+        "images": [
+            "sunset1.jpg",
+            "sunset2.jpg"
+        ]
+    },
+    {
+        "_id": "h2",
+        "name": "Mountain View Inn",
+        "location": "Baguio",
+        "description": "Cozy inn near the mountains",
+        "amenities": [
+            "wifi",
+            "breakfast"
+        ],
+        "rating": 4.2,
+        "contact_info": {
+            "phone": "0987654321",
+            "email": "contact@mountainview.com"
+        },
+        "images": [
+            "mountain1.jpg"
+        ]
+    },
+    {
+        "_id": "h3",
+        "name": "City Lights Hotel",
+        "location": "Cebu",
+        "description": "Modern hotel in the city center",
+        "amenities": [
+            "wifi",
+            "gym",
+            "jacuzzi"
+        ],
+        "rating": 4.8,
+        "contact_info": {
+            "phone": "1122334455",
+            "email": "hello@citylights.com"
+        },
+        "images": [
+            "city1.jpg",
+            "city2.jpg"
+        ]
+    },
+    {
+        "_id": "h4",
+        "name": "Tropical Breeze Resort",
+        "location": "Boracay",
+        "description": "Beachfront resort with tropical vibes",
+        "amenities": [
+            "pool",
+            "bar",
+            "wifi"
+        ],
+        "rating": 4.4,
+        "contact_info": {
+            "phone": "6677889900",
+            "email": "stay@tropicalbreeze.com"
+        },
+        "images": [
+            "tropical1.jpg"
+        ]
+    },
+    {
+        "_id": "h5",
+        "name": "Heritage Hotel",
+        "location": "Vigan",
+        "description": "Historic hotel with colonial architecture",
+        "amenities": [
+            "wifi",
+            "restaurant"
+        ],
+        "rating": 4.1,
+        "contact_info": {
+            "phone": "4455667788",
+            "email": "info@heritagehotel.com"
+        },
+        "images": [
+            "heritage1.jpg"
+        ]
+    }
+]
